@@ -1,8 +1,8 @@
 //iniciar o numero
-let numero = 16
+let numero = 20
 
 //fazer a condição: SE ou IF
-if(numero >= 16){
+if(numero >= 20){
     //exiba bem-vindo
     console.log("bem-vindo");
 }else{
