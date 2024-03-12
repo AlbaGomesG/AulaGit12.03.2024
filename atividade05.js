@@ -7,5 +7,5 @@ if(numero >= 20){
     console.log("seja bem-vindo");
 }else{
     //exiba tente novamente
-    console.log("tente novamente");
+    console.log("acesso negado");
 }
