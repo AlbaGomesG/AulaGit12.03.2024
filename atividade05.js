@@ -6,6 +6,6 @@ if(numero >= 14){
     //exiba acesso liberado
     console.log("acesso liberado");
 }else{
-    //exiba tente novamente
-    console.log("acesso negado");
+    //exiba erro, tente novamente
+    console.log("erro, tente novamente");
 }
