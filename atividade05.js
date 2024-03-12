@@ -1,8 +1,8 @@
 //iniciar o numero
-let numero = 14
+let numero = 10
 
 //fazer a condição: SE ou IF
-if(numero >= 14){
+if(numero >= 10){
     //exiba acesso permitido
     console.log("Acesso permitido");
 }else{
