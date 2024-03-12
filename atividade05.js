@@ -3,9 +3,9 @@ let numero = 16
 
 //fazer a condição: SE ou IF
 if(numero >= 16){
-    //exiba acesso permitido
-    console.log("Acesso permitido");
+    //exiba bem-vindo
+    console.log("bem-vindo");
 }else{
-    //exiba acesso negado
-    console.log("Acesso negado");
+    //exiba tente novamente
+    console.log("tente novamente");
 }
